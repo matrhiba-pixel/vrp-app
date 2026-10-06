@@ -1,0 +1,20 @@
+
+
+[SITES]
+# SiteName   InstallationCost(Fi)   Capacity
+Site1        1000                   500
+Site2        1500                   600
+Site3        1200                   400
+
+[CLIENTS]
+# ClientName   Demand(Dj)
+Client1        100
+Client2        150
+Client3        200
+Client4        120
+
+[TRANSPORT_COST]
+# SiteName   Client1   Client2   Client3   Client4
+Site1        20         30         40         50
+Site2        30         20         30         40
+Site3        50         40         20         30
