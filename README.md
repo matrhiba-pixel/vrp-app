@@ -1,0 +1,1 @@
+This Python desktop application is a Capacitated Facility Location Solver built with a Tkinter GUI and powered by the PuLP linear programming library. It solves the classic supply chain optimization problem of choosing which facilities (sites) to open and how to route client demand to minimize total operational costs.
